@@ -6,12 +6,12 @@ This is a little app that is meant to help you organize your day and your work f
 ## Uses/Examples
 Click the link below to head to the planner!
 
-- link here
+- https://themikal.github.io/DayPlannerThe5th/
 
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
 
 
 ## Acknowledgements
